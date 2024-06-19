@@ -1,0 +1,24 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2024-01-13 00:11:28
+
+Elaboration top modules:
+Verilog Module                Traffic_Light_Controller_TB
+
+
+-------------------------------------------------------------------------------------------
+Verilog Module              | Library | Info | Compiler Version      | Compilation Options
+-------------------------------------------------------------------------------------------
+Traffic_Light_Controller_TB | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ps
+Traffic_Light_Controller    | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ps
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                     | Comment
+-------------------------------------------------------------------------------------------
+work                        | None
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
